@@ -30,8 +30,8 @@ button{
 
 header{
     display: flex;
-    align-items: center;
     justify-content: space-between;
+    align-items: center;
     margin: 51px 0 134px 0;
 }
 
